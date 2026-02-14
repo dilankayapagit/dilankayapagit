@@ -1,79 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=Dilanka%20Yapa&fontSize=70&animation=fadeIn&fontAlignY=38" />
-  
-  <h3>🚀 Mobile Developer | AI & Machine Learning Researcher</h3>
-  
-  <p align="center">
-    <a href="mailto:devdilanka@gmail.com"><img src="https://img.shields.io/badge/Email-devdilanka%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  </p>
+  <h1>Hi, I'm Dilanka Yapa 👋</h1>
+  <p>🚀 <b>Full-Stack Mobile Engineer | AI & Machine Learning Researcher</b></p>
+
+  <a href="mailto:devdilanka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-009588?style=for-the-badge&logo=google-maps&logoColor=white" />
 </div>
 
 ---
 
 ## 👨‍💻 About Me
+I am a **Flutter Application Developer** currently contributing to enterprise ecosystems at **John Keells IT** (via JITRCS). My work sits at the intersection of high-performance mobile UI and intelligent backend systems.
 
-I am a **Mobile Developer** specializing in the **Flutter** ecosystem, currently contributing to enterprise-level solutions at **John Keells IT** (via JITRCS). Beyond mobile, I am a researcher and full-stack enthusiast focused on integrating **Generative AI** and **Vector Search** into real-world applications.
-
-* 📱 **Mobile:** Expert in building cross-platform apps (Android, iOS, Web) from a single codebase.
-* 🤖 **AI/ML:** Implementing local LLMs (Gemma), Semantic Search (SBERT), and Vector Databases (FAISS).
-* 🎓 **Education:** Currently pursuing an **MSc**, developing AI-driven ranking and recommendation systems.
-
----
-
-## 🧪 Featured Projects & Research
-
-### 🏆 [RankInfluencer.online](https://rankinfluencer.online) (MSc Project)
-An AI-driven platform designed to rank social media influencers through advanced data processing.
-* **Tech:** Python, TensorFlow, SBERT, FAISS, Gemma 1B.
-* **Focus:** Natural Language Processing and High-Dimensional Vector Search.
-
-### 🧭 UniCompass: AI Career Path Finder
-A specialized logic system that suggests educational and career paths based on exam results.
-* **Tech:** Next.js, FastAPI, PostgreSQL, Gemini API.
-
-### 💰 Smart Finance Advisor (Sri Lanka)
-An AI-powered application for comparing Fixed Deposit (FD) rates and assessing investment risks.
-* **Tech:** Flutter, FastAPI, Python, Gemma LLM.
+* 📱 **Mobile Mastery:** Building seamless experiences for Android, iOS, and Web from a single codebase.
+* 🧠 **AI Integration:** Implementing local LLMs (**Gemma**), Semantic Search (**SBERT**), and Vector Databases (**FAISS**).
+* 🎓 **Academic Focus:** Pursuing an **MSc**, specializing in AI-driven social media analytics and influencer ranking.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Technical Expertise
 
-### 📱 Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
-</p>
+| Mobile & Web | Backend & AI | Tools & Cloud |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> |
+| <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> | <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" /> | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> | <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> |
+| <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Gemma_LLM-8E75B2?style=flat-square" /> | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> |
 
-### 🧠 AI & Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" />
-</p>
+---
 
-### ☁️ Infrastructure & Tools
-<p>
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-</p>
+## 🧪 Featured Research & Projects
+
+### 📊 **[RankInfluencer.online](https://rankinfluencer.online)** > **MSc Thesis Project** > An AI platform using **SBERT** and **FAISS** to rank social media influencers via high-dimensional vector search.
+
+### 🧭 **UniCompass: AI Career Pathfinder**
+> An intelligent system mapping student exam results to career trajectories using **FastAPI** and the **Gemini API**.
+
+### 💰 **Smart Finance Advisor (LK)**
+> Localized financial advisory app comparing FD rates and risks, powered by a local **Gemma-7B** LLM.
 
 ---
 
 ## 📊 Performance Metrics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=nord" alt="Top Languages" height="150" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilankayapagit&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankayapagit&layout=compact&theme=react&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilankayapagit&show_icons=true&theme=react&hide_border=true" height="180px" />
+</div>
 
 ---
 
 <div align="center">
-  <i>"Building the future of mobile with Intelligence and Clean Code."</i>
+  <i>"Transforming complex logic into elegant mobile experiences."</i>
 </div>
