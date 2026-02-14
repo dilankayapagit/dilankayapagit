@@ -10,11 +10,11 @@
 ---
 
 ## 👨‍💻 About Me
-I am a **Flutter Application Developer** currently contributing to enterprise ecosystems at **John Keells IT** (via JITRCS). My work sits at the intersection of high-performance mobile UI and intelligent backend systems.
+I am a **Flutter Application Developer** currently working at **John Keells IT** (via JITRCS). I specialize in building high-performance mobile applications and researching the integration of AI into mobile ecosystems.
 
-* 📱 **Mobile Mastery:** Building seamless experiences for Android, iOS, and Web from a single codebase.
-* 🧠 **AI Integration:** Implementing local LLMs (**Gemma**), Semantic Search (**SBERT**), and Vector Databases (**FAISS**).
-* 🎓 **Academic Focus:** Pursuing an **MSc**, specializing in AI-driven social media analytics and influencer ranking.
+* 📱 **Mobile:** Expert in Flutter for Android, iOS, and Web.
+* 🧠 **AI/ML:** Working with **Gemma LLM**, **SBERT**, and **FAISS** for intelligent systems.
+* 🎓 **Academic:** Pursuing an **MSc** focused on AI-driven data analysis.
 
 ---
 
@@ -29,15 +29,13 @@ I am a **Flutter Application Developer** currently contributing to enterprise ec
 
 ---
 
-## 🧪 Featured Research & Projects
+## 🧪 Featured Projects
 
-### 📊 **[RankInfluencer.online](https://rankinfluencer.online)** > **MSc Thesis Project** | An AI platform using **SBERT** and **FAISS** to rank social media influencers via high-dimensional vector search.
+### 📊 **[RankInfluencer.online](https://rankinfluencer.online)** (MSc Project)
+An AI platform utilizing **SBERT** and **FAISS** for influencer ranking and social media data analysis.
 
 ### 🧭 **UniCompass: AI Career Pathfinder**
-> An intelligent system mapping student exam results to career trajectories using **FastAPI** and the **Gemini API**.
-
-### 💰 **Smart Finance Advisor (LK)**
-> Localized financial advisory app comparing FD rates and risks, powered by a local **Gemma-7B** LLM.
+An intelligent logic system mapping educational paths using **FastAPI** and **PostgreSQL**.
 
 ---
 
@@ -48,12 +46,12 @@ I am a **Flutter Application Developer** currently contributing to enterprise ec
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dilankayapagit&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankayapagit&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="165px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dilankayapagit&theme=217821" height="150px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=dilankayapagit&theme=217821" height="150px" />
 </div>
 
 ---
 
 <div align="center">
-  <i>"Transforming complex logic into elegant mobile experiences."</i>
+  <i>"Building the future of mobile with Intelligence and Clean Code."</i>
 </div>
