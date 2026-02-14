@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Dilanka Yapa 👋</h1>
+  <h1>✨ Dilanka Yapa</h1>
   <p>🚀 <b>Full-Stack Mobile Engineer | AI & Machine Learning Researcher</b></p>
 
   <a href="mailto:devdilanka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -31,7 +31,7 @@ I am a **Flutter Application Developer** currently contributing to enterprise ec
 
 ## 🧪 Featured Research & Projects
 
-### 📊 **[RankInfluencer.online](https://rankinfluencer.online)** > **MSc Thesis Project** > An AI platform using **SBERT** and **FAISS** to rank social media influencers via high-dimensional vector search.
+### 📊 **[RankInfluencer.online](https://rankinfluencer.online)** > **MSc Thesis Project** | An AI platform using **SBERT** and **FAISS** to rank social media influencers via high-dimensional vector search.
 
 ### 🧭 **UniCompass: AI Career Pathfinder**
 > An intelligent system mapping student exam results to career trajectories using **FastAPI** and the **Gemini API**.
@@ -48,8 +48,8 @@ I am a **Flutter Application Developer** currently contributing to enterprise ec
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankayapagit&layout=compact&theme=react&hide_border=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dilankayapagit&show_icons=true&theme=react&hide_border=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dilankayapagit&show_icons=true&theme=transparent&title_color=00b4d8&text_color=ffffff&icon_color=00b4d8&hide_border=true" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilankayapagit&layout=compact&theme=transparent&title_color=00b4d8&text_color=ffffff&hide_border=true" height="165px" />
 </div>
 
 ---
