@@ -35,7 +35,7 @@ I am a **Mobile Solutions Architect** and **Flutter Expert** currently driving d
 * **Core Tech:** SBERT (Sentence Embeddings), FAISS (Vector Similarity Search), and Python.
 * **Impact:** Automates the discovery of influencers by analyzing engagement patterns and content semantics rather than just follower counts.
 
-### 🧭 **[UniCompass](https://unicompass.online)** **AI Career & Education Navigator** An intelligent guidance system designed to map complex educational paths and career trajectories.
+### 🧭 **[UniCompass.online](https://unicompass.online)** **AI Career & Education Navigator** An intelligent guidance system designed to map complex educational paths and career trajectories.
 * **Core Tech:** FastAPI, PostgreSQL, and custom logic engines for career pathfinding.
 * **Impact:** Provides personalized academic roadmaps by processing user goals against real-world educational data.
 
